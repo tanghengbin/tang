@@ -34,7 +34,7 @@ footer{
 	text-align:center;
 	line-height:60px;
  }
- footer#footerInfo{
+ p#footerInfo{
   font-size: 0.8em;
   text-align:center;
   line-height:30px;
